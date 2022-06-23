@@ -37,7 +37,7 @@ This is an example of use.
 Please refer to it if you like.
 
 使用例です。
-よろしければご参考にしてください。
+もしよろしければ参考にしてください。
 
 # Note
 
