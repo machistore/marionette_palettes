@@ -7,7 +7,7 @@ It is a format to organize and make it easy to understand when creating a marion
 # DEMO
 
 ![スクリーンショット (42)](https://user-images.githubusercontent.com/104885577/175254211-d910d2c3-ef06-452e-8ed1-7edd4cd9cdd0.png)
-![スクリーンショット (43)](https://user-images.githubusercontent.com/104885577/175254221-4399a1cd-b4a1-4254-9136-eac96de3941d.png)
+![スクリーンショット (44)](https://user-images.githubusercontent.com/104885577/175541070-ee130b12-42d0-436e-85fe-545bddb22530.png)
 
 # Features
 
