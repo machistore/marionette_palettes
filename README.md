@@ -1,8 +1,10 @@
 # marionette_palettes
 
 It is a format to organize and make it easy to understand when creating a marionette network.
+We created the system with the assumption that marionette networks would be created by categorizing them on four palettes (2D rectangles): "Create Data," "Manipulate Data," "Create Objects," and "Manipulate Objects.
 
 マリオネットネットワークをつくるときに整理しながら、わかりやすくつくるためのフォーマットです。
+「データをつくる」「データを操作する」「オブジェクトをつくる」「オブジェクトを操作する」の4種類のパレット（2D四角形）の上にマリオネットネットワークを分類しながら作成していく想定でつくりました。
 
 # DEMO
 
