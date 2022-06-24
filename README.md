@@ -14,8 +14,10 @@ We created the system with the assumption that marionette networks would be crea
 # Features
 
 You can create a marionette network while organizing the configuration of nodes.
+This helps decipher the marionette network when reviewing it later or sharing it with a team.
 
 ノードの構成を整理しながらマリオネットネットワークを作成できます。
+あとで見返したり、チームで共有したりするときにマリオネットネットワークの解読を助けます。
 
 # Requirement
 
