@@ -57,7 +57,7 @@ The file is available in Vectorworks 2016 and 2019 versions.
 
 Please use it according to your environment.
 
-ファイルはVectorworks2016と2019のバージョンを用意しました。
+ファイルはベクターワークス2016と2019のバージョンを用意しました。
 
 使用環境に応じて使用してください。
 
