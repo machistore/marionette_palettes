@@ -49,7 +49,7 @@ Please refer to it if you like.
 
 使用例です。
 
-もしよろしければ参考にしてください。
+もしよければ参考にしてください。
 
 # Note
 
