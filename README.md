@@ -31,7 +31,7 @@ Vectorworks2016 or later with either Architect, Landmark, Spotlight or Design Su
 
 # Installation
 
-- marionette_palette.vwx
+- **marionette_palette.vwx**
 
 Open the downloaded file in Vectorworks and use it.
 
@@ -41,7 +41,7 @@ Or save the file as a template in sta format and use it.
 
 もしくはテンプレートとしてsta形式で保存して使用してください。
 
-- ex_marionette_palette.vwx
+- **ex_marionette_palette.vwx**
 
 This is an example of use.
 
