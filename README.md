@@ -57,9 +57,17 @@ The file is available in Vectorworks 2016 and 2019 versions.
 
 Please use it according to your environment.
 
+The design layer was created using the Git flow as a reference.
+
+Please change the design layers as necessary.
+
 ファイルはベクターワークス2016と2019のバージョンを用意しました。
 
 使用環境に応じて使用してください。
+
+デザインレイヤは[Gitフロー](https://yamashiro0217.hatenadiary.org/entry/20120903/1346640190)を参考に作成しました。
+
+必要に応じてデザインレイヤを変更してください。
 
 # Author
 
