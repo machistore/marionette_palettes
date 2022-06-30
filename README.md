@@ -57,7 +57,7 @@ The file is available in Vectorworks 2016 and 2019 versions.
 
 Please use it according to your environment.
 
-The design layer was created using the Git flow as a reference.
+The design layer was created using the Git-flow as a reference.
 
 Please change the design layers as necessary.
 
